@@ -5,4 +5,4 @@ all:
 %.png: %.dia
 	bash makedia.sh $<
 clean:
-	rm -f *~ *.*~*
+	rm -f *~ *.*~* *.png

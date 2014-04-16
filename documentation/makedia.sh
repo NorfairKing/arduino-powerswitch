@@ -6,4 +6,3 @@ f3="$filename.png"
 
 dia --verbose -e "$f2" -t svg "$f1"
 rsvg-convert "$f2" -o "$f3"
-rm "$f2"
