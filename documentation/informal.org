@@ -1,3 +1,0 @@
-* Informal explanation of the Electronics
-** The general idea
-   We want to controll the power to some electronic machine by an arduino microprocessor.

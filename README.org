@@ -1,2 +1,22 @@
 * Arduino Powerswitch
 Documentation and implementation of a power switch controlled by an arduino
+
+** The Idea
+Any regular powerswitch has to be controlled by hand.
+I wanted to make one that can be controlled programmatically so I started this project.
+
+Note: When I started this, I knew next to nothing about electronics.
+I got most of the information from advice I got from an electronics store owner.
+
+** Requirements
+*** Required Software
+    - Dia (only if you want to make the diagrams, the svg files are included in this repository)
+    - Arduino SDK (to upload the programs to your arduino)
+*** Required Materials
+    - An arduino (Arduino one)
+    - A resistor (10K)
+    - A transistor (MOSFET BS170)
+    - A relay
+    - A diode (1N4007)
+    - A powerstrip
+    - Soldering materials
